@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Stone_Curb_1.obj-65276458a1772f8c08924f69261fe92d.mesh"
+
+[deps]
+
+files=[ "res://.import/Stone_Curb_1.obj-65276458a1772f8c08924f69261fe92d.mesh" ]
+
+source_file="res://assets/3d/Modular Village/Stone_Curb_1.obj"
+dest_files=[ "res://.import/Stone_Curb_1.obj-65276458a1772f8c08924f69261fe92d.mesh", "res://.import/Stone_Curb_1.obj-65276458a1772f8c08924f69261fe92d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

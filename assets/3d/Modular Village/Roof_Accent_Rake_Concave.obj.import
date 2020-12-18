@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Roof_Accent_Rake_Concave.obj-cdfe7a5be3bb08a3b7bdbd53361b3c5b.mesh"
+
+[deps]
+
+files=[ "res://.import/Roof_Accent_Rake_Concave.obj-cdfe7a5be3bb08a3b7bdbd53361b3c5b.mesh" ]
+
+source_file="res://assets/3d/Modular Village/Roof_Accent_Rake_Concave.obj"
+dest_files=[ "res://.import/Roof_Accent_Rake_Concave.obj-cdfe7a5be3bb08a3b7bdbd53361b3c5b.mesh", "res://.import/Roof_Accent_Rake_Concave.obj-cdfe7a5be3bb08a3b7bdbd53361b3c5b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

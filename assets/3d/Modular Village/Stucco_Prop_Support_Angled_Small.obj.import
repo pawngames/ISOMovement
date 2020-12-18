@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Stucco_Prop_Support_Angled_Small.obj-162d7251e6b705a9f16c2ccc046053a5.mesh"
+
+[deps]
+
+files=[ "res://.import/Stucco_Prop_Support_Angled_Small.obj-162d7251e6b705a9f16c2ccc046053a5.mesh" ]
+
+source_file="res://assets/3d/Modular Village/Stucco_Prop_Support_Angled_Small.obj"
+dest_files=[ "res://.import/Stucco_Prop_Support_Angled_Small.obj-162d7251e6b705a9f16c2ccc046053a5.mesh", "res://.import/Stucco_Prop_Support_Angled_Small.obj-162d7251e6b705a9f16c2ccc046053a5.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

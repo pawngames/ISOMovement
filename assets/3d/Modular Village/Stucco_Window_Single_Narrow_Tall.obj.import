@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Stucco_Window_Single_Narrow_Tall.obj-46e6bc720d7f17db4115231dab50e745.mesh"
+
+[deps]
+
+files=[ "res://.import/Stucco_Window_Single_Narrow_Tall.obj-46e6bc720d7f17db4115231dab50e745.mesh" ]
+
+source_file="res://assets/3d/Modular Village/Stucco_Window_Single_Narrow_Tall.obj"
+dest_files=[ "res://.import/Stucco_Window_Single_Narrow_Tall.obj-46e6bc720d7f17db4115231dab50e745.mesh", "res://.import/Stucco_Window_Single_Narrow_Tall.obj-46e6bc720d7f17db4115231dab50e745.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

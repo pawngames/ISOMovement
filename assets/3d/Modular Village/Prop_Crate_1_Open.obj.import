@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Prop_Crate_1_Open.obj-0d5418aa7a601e0a7258ee3f0e1a60be.mesh"
+
+[deps]
+
+files=[ "res://.import/Prop_Crate_1_Open.obj-0d5418aa7a601e0a7258ee3f0e1a60be.mesh" ]
+
+source_file="res://assets/3d/Modular Village/Prop_Crate_1_Open.obj"
+dest_files=[ "res://.import/Prop_Crate_1_Open.obj-0d5418aa7a601e0a7258ee3f0e1a60be.mesh", "res://.import/Prop_Crate_1_Open.obj-0d5418aa7a601e0a7258ee3f0e1a60be.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

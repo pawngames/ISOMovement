@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Wood_Steps.obj-45f2e155ebee8cd2b68d21f6d043a4b1.mesh"
+
+[deps]
+
+files=[ "res://.import/Wood_Steps.obj-45f2e155ebee8cd2b68d21f6d043a4b1.mesh" ]
+
+source_file="res://assets/3d/Modular Village/Wood_Steps.obj"
+dest_files=[ "res://.import/Wood_Steps.obj-45f2e155ebee8cd2b68d21f6d043a4b1.mesh", "res://.import/Wood_Steps.obj-45f2e155ebee8cd2b68d21f6d043a4b1.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

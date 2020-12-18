@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Roof_Prop_Chimney_Stone.obj-66ff2e083e8c26da53968a1f9127ea75.mesh"
+
+[deps]
+
+files=[ "res://.import/Roof_Prop_Chimney_Stone.obj-66ff2e083e8c26da53968a1f9127ea75.mesh" ]
+
+source_file="res://assets/3d/Modular Village/Roof_Prop_Chimney_Stone.obj"
+dest_files=[ "res://.import/Roof_Prop_Chimney_Stone.obj-66ff2e083e8c26da53968a1f9127ea75.mesh", "res://.import/Roof_Prop_Chimney_Stone.obj-66ff2e083e8c26da53968a1f9127ea75.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

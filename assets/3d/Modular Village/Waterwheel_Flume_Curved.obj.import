@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Waterwheel_Flume_Curved.obj-45e6ef55957950f9a93d80d2d289b480.mesh"
+
+[deps]
+
+files=[ "res://.import/Waterwheel_Flume_Curved.obj-45e6ef55957950f9a93d80d2d289b480.mesh" ]
+
+source_file="res://assets/3d/Modular Village/Waterwheel_Flume_Curved.obj"
+dest_files=[ "res://.import/Waterwheel_Flume_Curved.obj-45e6ef55957950f9a93d80d2d289b480.mesh", "res://.import/Waterwheel_Flume_Curved.obj-45e6ef55957950f9a93d80d2d289b480.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

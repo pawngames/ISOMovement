@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Prop_Cart_1_Hay.obj-f0431548d24ddf7ed20cfb2d0c496f9a.mesh"
+
+[deps]
+
+files=[ "res://.import/Prop_Cart_1_Hay.obj-f0431548d24ddf7ed20cfb2d0c496f9a.mesh" ]
+
+source_file="res://assets/3d/Modular Village/Prop_Cart_1_Hay.obj"
+dest_files=[ "res://.import/Prop_Cart_1_Hay.obj-f0431548d24ddf7ed20cfb2d0c496f9a.mesh", "res://.import/Prop_Cart_1_Hay.obj-f0431548d24ddf7ed20cfb2d0c496f9a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

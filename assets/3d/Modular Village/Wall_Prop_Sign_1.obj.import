@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Wall_Prop_Sign_1.obj-10fec1b6f9dc601806674416eb017e4c.mesh"
+
+[deps]
+
+files=[ "res://.import/Wall_Prop_Sign_1.obj-10fec1b6f9dc601806674416eb017e4c.mesh" ]
+
+source_file="res://assets/3d/Modular Village/Wall_Prop_Sign_1.obj"
+dest_files=[ "res://.import/Wall_Prop_Sign_1.obj-10fec1b6f9dc601806674416eb017e4c.mesh", "res://.import/Wall_Prop_Sign_1.obj-10fec1b6f9dc601806674416eb017e4c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

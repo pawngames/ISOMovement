@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Roof_Convex_Side_Eave.obj-3961fe1d9ddf86d95cbe6f6d82d424a1.mesh"
+
+[deps]
+
+files=[ "res://.import/Roof_Convex_Side_Eave.obj-3961fe1d9ddf86d95cbe6f6d82d424a1.mesh" ]
+
+source_file="res://assets/3d/Modular Village/Roof_Convex_Side_Eave.obj"
+dest_files=[ "res://.import/Roof_Convex_Side_Eave.obj-3961fe1d9ddf86d95cbe6f6d82d424a1.mesh", "res://.import/Roof_Convex_Side_Eave.obj-3961fe1d9ddf86d95cbe6f6d82d424a1.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
